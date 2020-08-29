@@ -1,0 +1,14 @@
+.header nav {
+  background-color: #dc3545;
+  height: 160px;
+}
+.header h3 {
+  color: white;
+}
+
+.courseContainer {
+  margin-top: 170px;
+}
+.redTxt {
+  color: #dc3545;
+}
